@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "732064257079",
+    "firebase_url": "https://medical-center-215b9.firebaseio.com",
+    "project_id": "medical-center-215b9",
+    "storage_bucket": "medical-center-215b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732064257079:android:b9f73212d71b3f1b335bb2",
+        "android_client_info": {
+          "package_name": "com.example.medical2_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732064257079-qal1d73rpshbmkditsbm3dje73963k5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACf5JzDqmmOctB75n6N1iXH5GcY0n7Ucw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732064257079-qal1d73rpshbmkditsbm3dje73963k5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
